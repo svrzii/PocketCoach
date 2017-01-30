@@ -15,7 +15,7 @@
 ### 3. DRAWING
 <img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="150" align="middle">
 
-### 4. ANIMATION 
+### 4. ANIMATING 
 <img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="150" align="middle">
 
 ## Available on App Store
