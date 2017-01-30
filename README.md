@@ -1,6 +1,6 @@
 ## Welcome to POCKET COACH
 
-![Image](http://shrani.si/f/23/Sf/2QHPFhOp/1.png)
+![Image](http://shrani.si/f/E/wR/3SPlyCCb/1web.jpg)
 
 ### Support or Contact
 
