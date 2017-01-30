@@ -1,4 +1,4 @@
-# Welcome to POCKET COACH
+## Welcome to POCKET COACH
 
 **Football Pocket Coach is a new way to create your own custom tactics directly on your iPhone or iPad. Creating some tactics on your own and presenting them later to your players was never easier.**
 
