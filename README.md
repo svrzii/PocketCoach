@@ -4,7 +4,7 @@
 
 **CREATE, ANIMATE & SHARE!**
 
-<img src="http://shrani.si/f/23/Sf/2QHPFhOp/1/1.png" width="170"> <img src="http://shrani.si/f/29/UO/Fde5w9l/2.png" width="170"> <img src="http://shrani.si/f/S/JQ/3GjUhYpC/3.png" width="170"> <img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="170"> <img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="170">
+<img src="http://shrani.si/f/23/Sf/2QHPFhOp/1/1.png" width="250"> <img src="http://shrani.si/f/29/UO/Fde5w9l/2.png" width="250"> <img src="http://shrani.si/f/S/JQ/3GjUhYpC/3.png" width="250"> <img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="250"> <img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="250">
 
 ## Available on App Store
 
