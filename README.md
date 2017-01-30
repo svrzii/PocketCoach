@@ -4,19 +4,19 @@
 
 **CREATE, ANIMATE & SHARE!**
 
-<img src="http://shrani.si/f/23/Sf/2QHPFhOp/1/1.png" width="250" align="middle">    
+<img src="http://shrani.si/f/23/Sf/2QHPFhOp/1/1.png" width="350" align="middle">    
 
 ### 1. OVERVIEW
-<img src="http://shrani.si/f/29/UO/Fde5w9l/2.png" width="150" align="middle">
+<img src="http://shrani.si/f/29/UO/Fde5w9l/2.png" width="350" align="middle">
 
 ### 2. POSITIONING
-<img src="http://shrani.si/f/S/JQ/3GjUhYpC/3.png" width="150" align="middle">
+<img src="http://shrani.si/f/S/JQ/3GjUhYpC/3.png" width="350" align="middle">
 
 ### 3. DRAWING
-<img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="150" align="middle">
+<img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="350" align="middle">
 
 ### 4. ANIMATING 
-<img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="150" align="middle">
+<img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="350" align="middle">
 
 ## Available on App Store
 
