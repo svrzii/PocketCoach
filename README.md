@@ -1,5 +1,7 @@
 ## Welcome to POCKET COACH
 
+**Football Pocket Coach is a new way to create your own custom tactics direct on your phone. Creating some tactics on your own and presenting them later to your players was never easier. CREATE, ANIMATE & SHARE!.**
+
 ![Image](http://shrani.si/f/E/wR/3SPlyCCb/1web.jpg) ![Image](http://shrani.si/f/M/11g/2KcBqMAc/2web.jpg) ![Image](http://shrani.si/f/1G/D2/e4PpPnT/3web.jpg) ![Image](http://shrani.si/f/l/q1/2fLPCWUx/4web.jpg) ![Image](http://shrani.si/f/Z/Iu/1UnqYns9/5web.jpg)
 
 ### Support or Contact
