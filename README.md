@@ -25,3 +25,6 @@
 ### Support or Contact
 
 Having trouble with Pocket Coach? Feel free to [contact us](mailto:ms.pocket.coach@gmail.com) and we’ll help you as soon as possible.
+
+[Privacy Policy](PocketCoach-PrivacyPolicy.pdf "PocketCoach-PrivacyPolicy.pdf")
+
