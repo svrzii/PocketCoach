@@ -4,7 +4,7 @@
 
 **CREATE, ANIMATE & SHARE!**
 
-<img src="pocketcoachgifsmall.gif" width="300" align="middle">    
+<img src="pocketcoachgif.gif" width="300" align="middle">    
 
 ## Available on App Store
 
@@ -15,4 +15,3 @@
 Having trouble with Pocket Coach? Feel free to [contact us](mailto:ms.pocket.coach@gmail.com) and we’ll help you as soon as possible.
 
 [Privacy Policy](PocketCoach-PrivacyPolicy.pdf "PocketCoach-PrivacyPolicy.pdf")
-
