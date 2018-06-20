@@ -4,7 +4,7 @@
 
 **CREATE, ANIMATE & SHARE!**
 
-![pocketcoachgif](https://github.com/svrzii/PocketCoach/blob/master/pocketcoachgif.gif)
+<img src="https://github.com/svrzii/PocketCoach/blob/master/pocketcoachgif.gif" width="300" align="middle">    
 
 ## Available on App Store
 
